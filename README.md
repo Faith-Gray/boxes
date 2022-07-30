@@ -1,0 +1,1 @@
+This is practice for using props and stat within React. This project also include changing the state of an item conditionally.
